@@ -1,7 +1,7 @@
 # IPO Extension
 
 ## Overview
-
+### chrome://extensions/?id=bjdlmnaajjkkabhifgpdegedakbeeapc
 This simple Chrome extension utilizes the **Moneycontrol API** to fetch a company's IPO-related data, providing users with key information about upcoming and current IPOs.
 
 ## Key Company IPO Terms
