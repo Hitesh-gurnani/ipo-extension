@@ -32,8 +32,5 @@ This simple Chrome extension utilizes the **Moneycontrol API** to fetch a compan
 3. View all relevant IPO dates and details instantly.
 
 
-## My Chrome Extension
-
-Check out my [Chrome Extension](chrome://extensions/?id=bjdlmnaajjkkabhifgpdegedakbeeapc) on the Chrome Web Store!
 
 
