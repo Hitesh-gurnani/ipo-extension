@@ -1,0 +1,94 @@
+html,
+body,
+#root,
+.app-container {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.dot {
+  width: 4px;
+  height: 4px;
+  border-radius: 50%;
+}
+
+.red-dot {
+  background-color: red;
+}
+
+.green-dot {
+  background-color: green;
+}
+
+.blue-dot {
+  background-color: blue;
+}
+
+.yellow-dot {
+  background-color: yellow;
+}
+
+.purple-dot {
+  background-color: purple;
+}
+
+.orange-dot {
+  background-color: orange;
+}
+
+.dots-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2px;
+}
+
+.ipo-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  margin-bottom: 8px;
+}
+
+.ipo-item .dot {
+  width: 8px;
+  height: 8px;
+}
+
+.ipo-item div {
+  margin-left: 8px;
+}
+
+.legend .dot {
+  width: 8px;
+  height: 8px;
+}
+
+.legend {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.legend .col-span-1 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.legend .flex {
+  justify-content: flex-start;
+}

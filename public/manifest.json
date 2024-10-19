@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Upcoming IPOs",
+  "version": "1.0",
+  "description": "Displays a list of upcoming IPOs.",
+  "permissions": ["activeTab"],
+  "action": {
+    "default_popup": "index.html"
+  },
+  "background": {
+    "service_worker": "assets/background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["assets/content.js"]
+    }
+  ]
+}
