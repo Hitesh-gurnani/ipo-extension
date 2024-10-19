@@ -31,3 +31,10 @@ This simple Chrome extension utilizes the **Moneycontrol API** to fetch a compan
 1. Install the extension in your Chrome browser.
 2. Open the extension to search for a company's IPO.
 3. View all relevant IPO dates and details instantly.
+
+
+## My Chrome Extension
+
+Check out my [Chrome Extension](chrome://extensions/?id=bjdlmnaajjkkabhifgpdegedakbeeapc) on the Chrome Web Store!
+
+
